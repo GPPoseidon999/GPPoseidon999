@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**GPPoseidon999/GPPoseidon999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on uinnova
@@ -13,8 +10,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-![GPPoseidon's GitHub stats](https://github-readme-stats.vercel.app/api?username=GPPoseidon999&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GPPoseidon999)](https://github.com/anuraghazra/github-readme-stats)
+![GPPoseidon's GitHub stats](https://github-readme-stats.vercel.app/api?username=GPPoseidon999&show_icons=true=&bg_color=30,ccc,999&hide_border&icon_color=79FE96&=true&title_color=fff&text_color=fff)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GPPoseidon999&)](https://github.com/anuraghazra/github-readme-stats?)
